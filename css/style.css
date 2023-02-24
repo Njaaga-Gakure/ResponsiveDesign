@@ -87,6 +87,9 @@ header {
     max-width: 980px;
     margin: 0 auto;
 }
+.container-main {
+    padding: 1.25em;
+}
 .nav-list {
     list-style: none;
     padding: 0;
